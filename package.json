@@ -1,0 +1,22 @@
+{
+  "name": "enovel",
+  "version": "1.0.0",
+  "description": "金庸四部小说介绍的电子书。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2334168774/enovel.git"
+  },
+  "author": "2334168774",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/2334168774/enovel/issues"
+  },
+  "homepage": "https://github.com/2334168774/enovel#readme",
+   "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
